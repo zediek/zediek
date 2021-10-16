@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zediek
-- 👀 I’m interested in Game Dev, wWb Dev, Adroid / IOS Dev
+- 👀 I’m interested in Game Development, Web Development, Adroid / IOS Development
 - 🌱 I’m currently learning raylib in C
 
 <!---
