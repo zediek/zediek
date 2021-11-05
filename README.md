@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @zediek
 - 👀 I’m interested in Game Development, Web Development, Adroid / IOS Development
-- 🌱 I’m currently learning Raylib in C, Pygame and Flask in Python, React in Typescript, IOS app for Swift, Android app for Kotlin
+- 🌱 I’m currently learning:
+  - Raylib in C
+  - Pygame and Flask in Python
+  - React, GraphQL, Apollo in Typescript
+  - IOS app for Swift
+  - Android app for Kotlin
 
 <!---
 zediek/zediek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
