@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @zediek
-- 👀 I’m interested in Game Development, Web Development, Adroid / IOS Development
-- 🌱 I’m currently learning:
+# 👋 Hi, I’m @zediek
+
+
+**👀 I’m interested:**
+  - Game Development
+  - Web Development
+  - Adroid / IOS Development
+
+
+**🌱 I’m currently learning:**
   - Raylib in C
   - Pygame and Flask in Python
   - React, GraphQL, Apollo in Typescript
