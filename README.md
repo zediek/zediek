@@ -13,6 +13,7 @@
   - Angular, React, GraphQL, Apollo in Typescript
   - IOS app for Swift
   - Android app for Kotlin
+  - Web app for React
 
 <!---
 zediek/zediek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
