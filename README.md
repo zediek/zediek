@@ -4,7 +4,7 @@
 **👀 I’m interested:**
   - Game Development
   - Web Development
-  - Adroid / IOS Development
+  - Android / IOS Development
 
 
 **🌱 I’m currently learning:**
